@@ -1,0 +1,32 @@
+TALLER JS
+Actividad: Elaborar un ejemeplo para cada funcion predefinida de strings y arrays. Para cada ejemplo creas un comentario explicando lo que hace la funcion
+de manera puntual. 
+
+Entrega: 
+    - deben realizar la entrega en el link establecido por el instructor.
+    - Deben crear los archivos necesarios para ejecutar los ejemplos de cada funcion prdefinida (en la formacion impartida se explico como se ejecuta); los
+      archivos js deben ser 2 (pueden llamarlos String y Array).
+
+A continuación encontraras las funciones predefinidas que se presentó en la formación.
+
+- Funciones predefinidas de los Strings:
+    length: Obtiene la longitud del string.
+    toUpperCase(): Convierte el texto a mayúsculas.
+    toLowerCase(): Convierte el texto a minúsculas.
+    includes(): Verifica si contiene una palabra o carácter.
+    slice(): Extrae una parte del string.
+    replace(): Reemplaza una palabra o carácter.
+    trim(): Elimina los espacios al inicio y al final.
+
+- Funciones predefinidas de los arrays:
+    length: Obtiene el número de elementos.
+    push(): Agrega un elemento al final.
+    pop(): Elimina el último elemento.
+    shift(): Elimina el primer elemento.
+    unshift(): Agrega un elemento al inicio.
+    forEach(): Itera sobre cada elemento.
+    map(): Crea un nuevo array con transformaciones.
+    filter(): Crea un nuevo array con los elementos que cumplen una condición.
+    find(): Encuentra el primer elemento que cumple una condición.
+    reduce(): Reduce el array a un único valor (ejemplo: suma total).
+
