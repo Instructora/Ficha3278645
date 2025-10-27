@@ -1,0 +1,77 @@
+1.	Promedio de números mayores que un valor: 
+Crea una función que reciba un arreglo de números y un número límite. La función debe retornar el promedio de los valores mayores que el límite. 
+Incluye estructura base y llamado de función. 
+
+2.	Palabras con longitud específica: 
+Crea una función que reciba un arreglo de palabras y un número. Retorna un nuevo arreglo con las palabras que tengan esa cantidad exacta de letras. 
+Usa filter() o un ciclo for, condicionales y retorna el resultado. 
+
+3.	Clasificación de edades: 
+Crea una función que reciba una edad y retorne si la persona es “Niño”, “Adolescente”, “Adulto” o “Adulto mayor”. 
+Usa condicionales anidados y llamado de función con distintos valores. 
+
+4.	Contador de vocales y consonantes: 
+Crea una función que reciba una cadena y devuelva cuántas vocales y consonantes contiene. 
+Utiliza ciclos y condicionales. 
+
+5.	Cálculo de potencias sin Math.pow(): 
+Crea una función que reciba una base y un exponente y calcule la potencia usando un ciclo. 
+Usa variables acumuladoras. 
+
+6.	Números primos dentro de un rango: 
+Crea una función que reciba dos números (inicio y fin) y retorne los números primos entre ellos. 
+Usa ciclos anidados y condicionales. 
+
+7.	Conversión de temperatura: 
+Crea una función que reciba una temperatura y el tipo de conversión (“C” a “F” o “F” a “C”). Retorna el valor convertido. 
+Usa variables, operadores aritméticos y condicionales. 
+
+8.	Palíndromo sin usar métodos de inversión: 
+Crea una función que determine si una palabra o frase es un palíndromo (sin usar .reverse()). 
+Usa ciclos y comparación de caracteres. 
+
+
+
+9.	Suma de números impares: 
+Crea una función que reciba un arreglo de números y retorne la suma de todos los números impares. 
+Usa ciclo y condicional. 
+
+10.	Producto de números hasta un límite: 
+Crea una función que multiplique todos los números de un arreglo hasta llegar a un límite dado (si el producto supera el límite, se detiene). 
+Usa ciclo for o while y condicional break. 
+
+11.	Conversión de texto a formato “Título”: 
+Crea una función que reciba una cadena y retorne la misma cadena con la primera letra de cada palabra en mayúscula. 
+Usa split(), toUpperCase() y ciclos. 
+
+12.	Separar números positivos y negativos: 
+Crea una función que reciba un arreglo con números positivos y negativos y retorne dos arreglos: uno con los positivos y otro con los negativos. 
+Usa condicionales y arrays. 
+
+13.	Eliminar duplicados sin usar Set: 
+Crea una función que reciba un arreglo y retorne un nuevo arreglo sin elementos repetidos. 
+Usa ciclos y condicionales. 
+
+14.	Validar contraseña segura: 
+Crea una función que reciba una cadena y verifique si cumple con los requisitos de una contraseña segura (mínimo 8 caracteres, una mayúscula, un número y un carácter especial). 
+Usa condicionales compuestos y retornos booleanos. 
+
+15.	Calcular mediana de un conjunto de datos: 
+Crea una función que reciba un arreglo numérico y retorne su mediana. 
+Ordena el arreglo manualmente (sin .sort()) usando ciclos. 
+
+16.	Conteo de elementos mayores que el promedio: 
+Crea una función que calcule cuántos elementos de un arreglo son mayores que el promedio del mismo arreglo. 
+Usa ciclos anidados y variables acumuladoras. 
+
+17.	Conversión de número a binario: 
+Crea una función que reciba un número entero y retorne su representación binaria sin usar .toString(2). 
+Usa un ciclo y divisiones sucesivas. 
+18.	Contar palabras con letra inicial específica: 
+Crea una función que reciba una frase y una letra, y retorne cuántas palabras inician con esa letra. 
+Usa split(), ciclo y condicional. 
+
+19.	Intercambio de posiciones en un arreglo: 
+Crea una función que reciba un arreglo y dos índices, e intercambie los elementos en esas posiciones. 
+Valida que los índices existan. 
+
